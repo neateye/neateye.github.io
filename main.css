@@ -7,3 +7,9 @@ p {
   color: purple;
 }
 
+#header {
+    background-color:steelblue;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
