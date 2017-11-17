@@ -6,9 +6,10 @@
 }
 
 #nav {
+    line-height:30px;
     background-color:lightblue;
     height:100px;
-    width:700px
+    width:500px
     padding:5px;          
 }
 
