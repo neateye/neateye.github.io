@@ -2,8 +2,9 @@
     background-color:darkblue;
     text-align:center;
     color:white;
-    height:50px;
-    width:500px
+    height:100px;
+    width:500px;
+    padding:5px;
 }
 
 #nav {
@@ -11,7 +12,7 @@
     background-color:lightblue;
     text-align:center;
     height:50px;
-    width:100px;
+    width:300px;
     padding:5px;          
 }
 
