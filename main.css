@@ -6,3 +6,9 @@ p {
   font-family: Arial;
   color: purple;
 }
+
+#header {
+    background-color:khaki;
+    color:dodgerblue;
+    text-align:center;
+    padding:10px;
