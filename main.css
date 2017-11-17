@@ -10,9 +10,15 @@
 #nav {
     background-color:lightblue;
     text-align:center;
-    line-height:20px;
+    line-height:5px;
     height:40px;
     padding:5px;          
+}
+
+#section {
+    background-color:lightsteelblue;
+    text-align:center;
+    padding:5px;
 }
 
 h2 {
