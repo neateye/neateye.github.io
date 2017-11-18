@@ -24,7 +24,32 @@
     text-align:center;
     height:1000px;
     padding:5px;
+}
+
+button {
+	background-color:lightblue;
+    box-shadow:0 10px darkblue;
+    border:3px solid darkblue;
+    border-radius:50px;
+    cursor:pointer;
+    color:darkblue;
+    font-family:Arial;
+    font-size: 25px;
+    padding:15px 20px;
     
+}
+
+button:hover {
+	background-color:lightcyan;
+    border:3px solid lightskyblue;
+    color:lightskyblue;
+
+}
+
+button:active {
+	background-color:lightcyan;
+	box-shadow:0 5px lightskyblue;
+    transform:translateY(2px);
 }
 
 p {
