@@ -1,3 +1,10 @@
+body {
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px
+}
+
 #header {
     background-color:lightsteelblue;
     text-align:center;
@@ -27,7 +34,7 @@
 }
 
 button {
-	background-color:lightblue;
+    background-color:lightblue;
     box-shadow:0 10px darkblue;
     border:3px solid darkblue;
     border-radius:50px;
@@ -36,19 +43,18 @@ button {
     font-family:Arial;
     font-size: 25px;
     padding:15px 20px;
-    
 }
 
 button:hover {
-	background-color:lightcyan;
+    background-color:lightcyan;
     border:3px solid lightskyblue;
     color:lightskyblue;
 
 }
 
 button:active {
-	background-color:lightcyan;
-	box-shadow:0 5px lightskyblue;
+    background-color:lightcyan;
+    box-shadow:0 5px lightskyblue;
     transform:translateY(2px);
 }
 
