@@ -11,9 +11,10 @@
 #nav {
     background-color:lavender;
     text-align:center;
-    font-size:10px;
+    font-family:Arial;
+    font-size:20px;
     color:lightgrey;
-    line-height:5px;
+    line-height:10px;
     height:40px;
     padding:5px;          
 }
