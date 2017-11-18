@@ -8,8 +8,9 @@
 }
 
 #nav {
-    background-color:lightblue;
+    background-color:lavender;
     text-align:center;
+    font-size:10px;
     color:skyblue;
     line-height:5px;
     height:40px;
@@ -26,6 +27,6 @@
 
 p {
   font-family: Arial;
-  color: purple;
+  color: lightslategrey;
 }
 
